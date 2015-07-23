@@ -1,6 +1,6 @@
 # Xamarin.KonamiCode
 
-A Xamarin.iOS (MonoTouch) implementation of a Konami code gesture recognizer. Supports the new Unified API.
+A Xamarin.iOS (MonoTouch) implementation of a Konami code `UIGestureRecognizer`. Supports the new Unified API.
 
 Adapted from the original [DRKonamiCode](https://github.com/objectiveSee/DRKonamiCode) project.
 
