@@ -1,9 +1,15 @@
-﻿using System;
+﻿//
+// KonamiGestureRecognizer.cs
+//
+// Copyright (c) 2015 Lukas Lipka. All rights reserved.
+//
+
+using System;
 using CoreGraphics;
 using Foundation;
 using UIKit;
 
-namespace KonamiCode
+namespace Xamarin
 {
 	public class KonamiGestureRecognizer : UIGestureRecognizer
 	{

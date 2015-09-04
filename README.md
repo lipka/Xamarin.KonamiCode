@@ -7,7 +7,7 @@ Adapted from the original [DRKonamiCode](https://github.com/objectiveSee/DRKonam
 ## Usage
 
 ``` c#
-using KonamiCode;
+using Xamarin;
 
 ...
 
